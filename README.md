@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran-48&label=Profile%20views&color=0e75b6&style=flat" alt="kiran-48" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow,PyTorch**
+- 🌱 I’m currently learning **Python,Pycharm**
 
 - 📫 How to reach me **hameedkiran48@gmail.com**
 
